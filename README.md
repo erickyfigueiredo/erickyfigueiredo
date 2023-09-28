@@ -30,6 +30,6 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=erickyfigueiredo&show_icons=true&theme=radical" alt="" />
+<!--<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=erickyfigueiredo&show_icons=true&theme=radical" alt="" /> -->
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="" />
 </p>

@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-- 🇧🇷 I'm Brazilian. 24 years old.
+- 🇧🇷 I'm Brazilian. 26 years old.
 - 🇯🇵 In July 2023, I arrived in Japan.
 <br/><br/>
 

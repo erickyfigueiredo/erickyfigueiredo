@@ -9,7 +9,7 @@
 
 
 <p align="left">
-## ⚡️ A Few Quick Facts
+⚡️ A Few Quick Facts
 
 - 💻 I turn rough ideas into shipped features users actually touch.
 - 🧪 I keep things tidy: tests where they matter, code reviews that teach, docs that help.
@@ -20,7 +20,7 @@
 - 🎮🍜 Off-hours: Japanese culture, good food, anime, and games.
   
 </p>
-<img width="490" height="270" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align=right>
+
 
   
 ### 🖥️ My DevSetup
@@ -67,6 +67,5 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<!--<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=erickyfigueiredo&show_icons=true&theme=radical" alt="" /> -->
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickyfigueiredo&layout=compact&theme=radical" alt="" />
 </p>

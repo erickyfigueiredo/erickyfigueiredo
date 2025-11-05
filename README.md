@@ -8,11 +8,13 @@
 
 
 
-
+<p align="left">
 ## ⚡️ A Few Quick Facts
 
 - 🎮 🍜 I have a deep appreciation for Japanese culture and cuisine, along with a strong passion for anime and gaming.
-- 🌱 I’m currently learning new languages<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img width="490" height="270" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align=right>
+- 🌱 I’m currently learning new languages<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+<img width="490" height="270" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align=right>
 
   
 ### 🖥️ My DevSetup
